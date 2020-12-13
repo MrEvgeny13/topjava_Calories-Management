@@ -4,8 +4,6 @@
 Java Enterprise Online Project
 ===============================
 
-Developing a Spring / JPA Enterprise application with role-based authorization and access rights on the Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 8 Stream API stack:
-- implementation of saving to Postgres and HSQLDB databases based on Spring JBDC, JPA(Hibernate) and Spring-Data-JPA
-- implementation and testing of REST and AJAX controllers
-- implementation of the client in Bootstrap (css/js), datatables, jQuery + plugins.
-- own revision of the project
+Participation in the development of a full-featured Spring 5/JPA enterprise application with authorization and access rights based on roles on the popular Java stack: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery + plugins, Java 8 Stream and Time API, migration to JDK 15, saving to PostgreSQL and HSQLDB databases, and deployment in the cloud service Heroku.
+
+Update: migration to Spring Boot 2.4, Lombok, H2, Thymeleaf, Spring Data REST + HATEOAS.
