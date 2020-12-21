@@ -4,6 +4,10 @@
 Java Enterprise Online Project
 ===============================
 
-Participation in the development of a full-featured Spring 5/JPA enterprise application with authorization and access rights based on roles on the popular Java stack: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery + plugins, Java 8 Stream and Time API, migration to JDK 15, saving to PostgreSQL and HSQLDB databases, and deployment in the cloud service Heroku.
+- Participation in the development of a full-featured Spring 5/JPA enterprise application with authorization and access rights based on roles on the popular Java stack: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery plugins, Java 8 Stream and Time API;
+- Migration to JDK 15; 
+- Saving to PostgreSQL and HSQLDB databases;
+- Deployment in the cloud service Heroku;
+- Own revision of the project.
 
-Update: migration to Spring Boot 2.4, Lombok, H2, Thymeleaf, Spring Data REST + HATEOAS.
+UPD: migration to Spring Boot 2.4, Lombok, H2, Thymeleaf, Spring Data REST HATEOAS.
