@@ -10,4 +10,4 @@ Java Enterprise Online Project
 - Deployment in the cloud service Heroku;
 - Own revision of the project.
 
-UPD: migration to Spring Boot 2.4, Lombok, H2, Thymeleaf, Spring Data REST HATEOAS.
+UPD: migration to Spring Boot 2.4, Lombok, H2, Thymeleaf, Spring Data REST + HATEOAS.
