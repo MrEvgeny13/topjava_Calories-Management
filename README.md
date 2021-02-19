@@ -4,10 +4,8 @@
 Java Enterprise Online Project
 ===============================
 
-- Participation in the development of a full-featured Spring 5/JPA enterprise application with authorization and access rights based on roles on the popular Java stack: Maven, Spring MVC, Security, JPA(Hibernate), REST(Jackson), JUnit 5, Bootstrap (css,js), datatables, jQuery plugins, Java 8 Stream and Time API;
-- Migration to JDK 15; 
-- Saving to PostgreSQL and HSQLDB databases;
-- Deployment in the cloud service Heroku;
-- Own revision of the project.
+<h3>Java Enterprise project with registration/authorization and role-based access rights (USER, ADMIN).</h3> 
+<br>Admin could create/edit/delete users, users - manage your profile and data (meals) via UI (AJAX) and REST with basic authorization. Meals could be filtered by date and time. Meal record color depends on daily calories sum exceeding "Daily calorie limit" (editable user's profile paramets). All REST interface covered with JUnit tests by Spring MVC Test и Spring Security Test.</br>
 
-UPD: migration to Spring Boot 2.4, Lombok, H2, Thymeleaf, Spring Data REST + HATEOAS.
+**Application stack:**
+<br>Spring Security, Spring MVC, Spring Data JPA, Spring Security Test, Hibernate ORM, Hibernate Validator, SLF4J, Json Jackson, JSP, JSTL, Apache Tomcat, WebJars, DataTables plugin, EHCACHE, PostgreSQL, JUnit, Hamcrest, jQuery, jQuery notification, Bootstrap.</br>
