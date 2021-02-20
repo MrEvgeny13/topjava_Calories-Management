@@ -1,6 +1,3 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d1a6f6d0b4404f32bd59394074a3c1b6)](https://www.codacy.com/manual/javawebinar/topjava)
-[![Build Status](https://travis-ci.com/MrEvgeny13/topjava.svg?branch=master)](https://travis-ci.com/MrEvgeny13/topjava)
-
 Java Enterprise Online Project
 ===============================
 <h3>Java Enterprise project with registration/authorization and role-based access rights (USER, ADMIN).</h3> 
