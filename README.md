@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/MrEvgeny13/topjava.svg?branch=master)](https://travis-ci.com/MrEvgeny13/topjava)
+
 Java Enterprise Online Project
 ===============================
 <h3>Java Enterprise project with registration/authorization and role-based access rights (USER, ADMIN).</h3> 
