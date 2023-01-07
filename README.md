@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/MrEvgeny13/topjava.svg?branch=master)](https://travis-ci.com/MrEvgeny13/topjava)
 
-Java Enterprise Online Project (Calorie Counter)
+Java Enterprise Online Project (Calories Management)
 ===============================
 <h3>Java Enterprise project with registration/authorization and role-based access rights (USER, ADMIN)</h3> 
 
@@ -10,6 +10,9 @@ Java Enterprise Online Project (Calorie Counter)
 * All REST interfaces covered with JUnit tests by Spring MVC Test и Spring Security Test.
 
 <h4>Application stack:</h4>
-Spring Security, Spring MVC, Spring Data JPA, Spring Security Test, Hibernate ORM, Hibernate Validator, SLF4J, Json Jackson, JSP, JSTL, Apache Tomcat, WebJars, DataTables plugin, EHCACHE, PostgreSQL, JUnit, Hamcrest, jQuery, jQuery notification, Bootstrap.
 
-<h4><a href="http://topjava21evgeny13.herokuapp.com" target="_blank">Demo of the developed application</a></h4>
+Spring MVC, Spring Data JPA, Spring Security, Spring Security Test, Hibernate ORM, Hibernate Validator, SLF4J, Json Jackson, JSP, JSTL, Apache Tomcat, WebJars, DataTables plugin, EHCACHE, PostgreSQL, JUnit, Hamcrest, jQuery, jQuery notification, Bootstrap.
+
+<h4>Screenshot of the main page:</h4>
+
+![alt text](https://github.com/MrEvgeny13/topjava_Calories-Management/blob/master/Main_Page.png?raw=true)
